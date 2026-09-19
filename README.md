@@ -60,7 +60,7 @@ I occasionally write about Oracle APEX, APIs and projects I'm working on at **[r
 
 ## 🐈 Beyond code
 
-When I'm not coding, I'm usually tinkering with my homelab, reading about biohacking and longevity, or looking after five cats.
+When I'm not coding, I'm usually tinkering with my homelab, reading about biohacking and longevity, or being a proud cat dad to five cats.
 
 ---
 
