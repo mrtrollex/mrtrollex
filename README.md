@@ -6,7 +6,7 @@
 
 I build database applications, APIs, self-hosted tools and practical AI integrations.
 
-[Website](https://richardsenko.com/) · [VaultBridge](https://github.com/mrtrollex/VaultBridge)
+[Website](https://richardsenko.com/) · [Oracle ACE Profile](https://ace.oracle.com/ords/ace/oapt/profile/richardsenko) · [VaultBridge](https://github.com/mrtrollex/VaultBridge)
 
 </div>
 
@@ -43,10 +43,27 @@ Markdown stays the source of truth while VaultBridge provides authenticated acce
 
 ---
 
+## 🏅 Selected credentials
+
+- **Oracle APEX Cloud Developer Certified Professional**
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+- **Oracle Agentic AI Certified Foundations Associate**
+- **Harvard CS50x: Introduction to Computer Science**
+
+[More certifications →](https://richardsenko.com/)
+
+---
+
 ## ✍️ Writing
 
 I write about **Oracle APEX, APIs, AI-assisted development and projects I'm building** at  
 **[richardsenko.com](https://richardsenko.com/)**.
+
+---
+
+## 🐈 Beyond code
+
+Outside software, I'm interested in **biohacking, longevity and self-hosting** — and I'm a proud cat dad to **five cats**.
 
 ---
 
