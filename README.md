@@ -43,14 +43,12 @@ Markdown stays the source of truth while VaultBridge provides authenticated acce
 
 ---
 
-## 🏅 Selected credentials
+## 🏅 Certifications
 
 - **Oracle APEX Cloud Developer Certified Professional**
 - **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
-- **Oracle Agentic AI Certified Foundations Associate**
+- **Oracle Cloud Infrastructure 2025 Certified Architect Associate**
 - **Harvard CS50x: Introduction to Computer Science**
-
-[More certifications →](https://richardsenko.com/)
 
 ---
 
