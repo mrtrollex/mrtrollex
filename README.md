@@ -4,7 +4,7 @@
 
 **Oracle APEX Developer · Oracle ACE Apprentice**
 
-I build database applications, APIs, self-hosted tools and practical AI integrations.
+Oracle APEX developer from Slovakia. Most of my work is around Oracle APEX, PL/SQL and APIs. In my free time I build tools that solve problems I actually have.
 
 [Website](https://richardsenko.com/) · [Oracle ACE Profile](https://ace.oracle.com/ords/ace/oapt/profile/richardsenko) · [VaultBridge](https://github.com/mrtrollex/VaultBridge)
 
@@ -22,9 +22,9 @@ I build database applications, APIs, self-hosted tools and practical AI integrat
 
 ### [VaultBridge](https://github.com/mrtrollex/VaultBridge)
 
-A self-hosted REST + semantic search API for Obsidian Markdown vaults.
+VaultBridge started because I wanted a simple way to connect AI tools to my Obsidian vault without giving up control of my notes.
 
-Markdown stays the source of truth while VaultBridge provides authenticated access for AI clients, scripts and automations — with local semantic search, MCP support and a web dashboard.
+It has since grown into a self-hosted API with local semantic search, MCP support and a small web dashboard.
 
 **Python · FastAPI · Docker · SQLite · MCP · REST APIs**
 
@@ -54,15 +54,14 @@ Markdown stays the source of truth while VaultBridge provides authenticated acce
 
 ## ✍️ Writing
 
-I write about **Oracle APEX, APIs, AI-assisted development and projects I'm building** at  
-**[richardsenko.com](https://richardsenko.com/)**.
+I occasionally write about Oracle APEX, APIs and projects I'm working on at **[richardsenko.com](https://richardsenko.com/)**.
 
 ---
 
 ## 🐈 Beyond code
 
-Outside software, I'm interested in **biohacking, longevity and self-hosting** — and I'm a proud cat dad to **five cats**.
+When I'm not coding, I'm usually tinkering with my homelab, reading about biohacking and longevity, or looking after five cats.
 
 ---
 
-<sub>Most of my day-to-day professional work lives in private Oracle environments. Public repositories here are projects I can actually share.</sub>
+<sub>Most of my day-to-day work is in private Oracle environments, so the public repositories here are the projects I can share.</sub>
